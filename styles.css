@@ -1,0 +1,63 @@
+body 
+{
+    margin: 0 auto;
+    padding: 0 auto;
+    max-width: 1000px;
+    min-height: 100vh;
+    font-family: "Young Sherif", "Outfit";
+    font-size: 16px;
+    color: #302d2c;
+    text-align: center;
+    background-color: #ccb396c9;
+}
+
+header 
+{
+    margin: 25px;
+    padding: 35px;
+    background-color: #fff5fa;
+    text-align: center;
+    border: 4px solid #000000;
+    border-radius: 10px;
+}
+
+main 
+{
+    margin: 25px;
+    padding: 35px;
+    background-color: #f3e6d8;
+    border: 4px solid #000000;
+    border-radius: 10px;
+}
+
+section
+{
+    margin: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    background-color: #fff5fa;
+}
+
+h1 
+{
+    color: #000000;
+}
+
+h2 
+{
+    color: #000000;
+}
+
+h3 
+{
+    color: #854632;
+    text-align: left;
+    padding:15px;
+}
+table
+{
+    margin: 0 auto;
+    padding: 10px;
+    max-width: 10px;
+    min-height: 10vh;
+}

@@ -11,16 +11,16 @@ The designs were created to the following widths:
 
 ### Primary
 
-- Nutmeg: hsl(14, 45%, 36%)
+- Nutmeg: #854632
 - Dark Raspberry: hsl(332, 51%, 32%)
 
 ### Neutral
 
-- White: hsl(0, 0%, 100%)
-- Rose White: hsl(330, 100%, 98%)
-- Eggshell: hsl(30, 54%, 90%)
+- White: #ffffff
+- Rose White: #fff5fa
+- Eggshell: #f3e6d8
 - Light Grey: hsl(30, 18%, 87%)
-- Wenge Brown: hsl(30, 10%, 34%)
+- Wenge Brown: #5f574e
 - Dark Charcoal: hsl(24, 5%, 18%)
 
 ## Typography
